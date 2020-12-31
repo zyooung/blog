@@ -9,7 +9,7 @@
 title: 山羊日记
 email: zyooung@gmail.com
 description: 但愿不是每个公民都愿意作沉默的羔羊 # use > to ignore newlines until "baseurl:"
-baseurl: # "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # "http://example.com" # the base hostname & protocol for your site
 twitter_username: zyooung
 github_username:  zyooung
