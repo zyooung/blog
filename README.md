@@ -1,4 +1,4 @@
-This blog is powered by [Jekyll](https://jekyllrb.com/).
+This blog is powered by [Jekyll](https://jekyllrb.com/). Thanks @wild-flame for the awesome theme [Simple](https://github.com/wild-flame/jekyll-simple).
 
 ### Install Jekyll on macOS
 
