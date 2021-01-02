@@ -236,7 +236,7 @@ h1.artilce_title {
 }
 
 .article-content a {
-  border-bottom:1px dotted red;
+  border-bottom:1px dotted darkcyan;
   text-decoration:none;
 }
 .article-content a:hover {
@@ -246,9 +246,9 @@ h1.artilce_title {
 
 .article-footer {
 
-  padding:2rem 0;
-  border-top:1px solid #fff;
-  border-bottom:1px solid #fff;
+  // padding:2rem 0;
+  // border-top:1px solid #fff;
+  // border-bottom:1px solid #fff;
   margin-top: 5em;
   .share {
     text-align:center;
@@ -353,7 +353,7 @@ body.custom-background {
 }
 
 .category-name {
-  padding-top:20px;
+  // padding-top:20px;
   text-transform:lowercase;
   font-variant:small-caps;
   h2 {
